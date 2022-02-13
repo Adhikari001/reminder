@@ -1,5 +1,5 @@
 # reminder
-FLutter based reminder applicaiton
+Flutter based reminder applicaiton
 
 You can set reminder at a current time and get reminded at a future time.
 
